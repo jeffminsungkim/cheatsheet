@@ -15,9 +15,17 @@
 <p align="center">
     <br>
     |
-    <a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/web/CHEATSHEET-EN.md">CHEATSHEET in English</a> |
-    <a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/web/CHEATSHEET.md">CHEATSHEET in Korean</a> |
+    <b><a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/web/CHEATSHEET-EN.md">CHEATSHEET in English</a></b> |
+    <b><a href="https://github.com/jeffminsungkim/cheatsheet/blob/master/web/CHEATSHEET.md">CHEATSHEET in Korean</a></b> |
     <br>
     <br>
     <a href="http://www.sherv.net/"><img alt="Cheating at School" width=94 height=58 src="http://www.sherv.net/cm/emoticons/school/cheating-at-school-smiley-emoticon.gif"></a>
+</p>
+
+<p align="center">
+    <b>Inspired by</b><span>✨ </span>
+    <br>
+    <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Darcy Clarke</a> |
+    <a href="https://github.com/MaximAbramchuck/awesome-interview-questions">Maksim Abramchuk</a> |
+    <a href="http://davidshariff.com/">David Shariff</a> 
 </p>
