@@ -21,11 +21,11 @@
     <br>
     <a href="http://www.sherv.net/"><img alt="Cheating at School" width=94 height=58 src="http://www.sherv.net/cm/emoticons/school/cheating-at-school-smiley-emoticon.gif"></a>
 </p>
-
 <p align="center">
     <b>Inspired by</b><span>✨ </span>
     <br>
     <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Darcy Clarke</a> |
     <a href="https://github.com/MaximAbramchuck/awesome-interview-questions">Maksim Abramchuk</a> |
+    <a href="https://github.com/yangshun/tech-interview-handbook">Yangshun Tay</a> |
     <a href="http://davidshariff.com/">David Shariff</a> 
 </p>
